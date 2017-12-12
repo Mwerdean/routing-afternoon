@@ -81,3 +81,10 @@ a {
   width: 60%;
   margin: 0 auto;
 }
+
+.black {
+  height:40px;
+  width: 70px;
+  background-color: black;
+  color:white;
+}
